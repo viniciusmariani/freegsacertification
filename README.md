@@ -32,7 +32,7 @@ Segurança de Dados na Nuvem|IBM|https://event.on24.com/eventRegistration/EventL
 Resposta a incidentes: aumente sua resiliência|IBM|https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&partnerref=IBMPlay&eventid=2350255&sessionid=1&key=DB0D82C9895EEF5801C20870F7371B94&regTag=&sourcepage=register|
 |Estratégia de dados para a continuidade de negócios|IBM|https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&partnerref=IBMPlay&eventid=2284346&sessionid=1&key=D47F57B136D33908458986C4420C41C3&regTag=&sourcepage=register|
 |A Jornada para a Transformação Digital e Inteligência Artificial|IBM|https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&partnerref=IBMPlay&eventid=2240193&sessionid=1&key=72D06CAC3A79CFBE65E693D3A6EDC22A&regTag=&sourcepage=register|
-|BM & Magna | Transforme suas imagens em dados de negócio e ganhe novos insights e mais tempo.|IBM|https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&partnerref=IBMPLay&eventid=2269915&sessionid=1&key=36E814BA26E0CD48BE04BB890DD22A3D&regTag=&sourcepage=register|
+|IBM & Magna|IBM|https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&partnerref=IBMPLay&eventid=2269915&sessionid=1&key=36E814BA26E0CD48BE04BB890DD22A3D&regTag=&sourcepage=register|
 |Financial Accounting Diploma Exam (Foundation)|StudySection|https://www.studysection.com/financial-accountant-foundation-diploma|
 |Human Resource Management (HRM) Certification Exam|StudySection|https://www.studysection.com/human-resource-management-foundation|
 AWS Developer Diploma Exam|StudySection|https://www.studysection.com/aws-developer-foundation-diploma|
