@@ -1,4 +1,4 @@
-# freegsacertification
+# Free GSA's Certification
 
 ## GSA's exclusive repository to view, share and contribute on preferably free certifications
 
