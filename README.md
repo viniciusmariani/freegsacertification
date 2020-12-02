@@ -2,7 +2,7 @@
 
 ## GSA's exclusive repository to view, share and contribute on preferably free certifications.
 
-### Please note that NOT all certifications are IT related. Some may be regarding business, financ, language or any other relevant topic that will provide personal and carreer growth for our team.
+### Please note that NOT all certifications are IT related. Some may be regarding business, finance, language or any other relevant topic that will provide personal and carreer growth for our team.
 
 #### All certifications contain a study material that you can download or at least a few videos that provide the necessary information.
 
