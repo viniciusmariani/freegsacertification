@@ -1,6 +1,6 @@
 # Free GSA's Certification 
 
-## GSA's exclusive repository to view, share and contribute on preferably free certifications.
+## GSA's exclusive repository to view, share and contribute on preferably free certifications. Enjoy!
 
 ### Please note that NOT all certifications are IT related. Some may be regarding business, finance, language or any other relevant topic that will provide personal and carreer growth for our team.
 
