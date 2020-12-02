@@ -40,3 +40,8 @@ AWS Developer Diploma Exam|StudySection|https://www.studysection.com/aws-develop
 |Scrum Master Certification Exam|StudySection|https://www.studysection.com/scrum-master-foundation|
 |Communication Skills Certification Exam (Foundation)|StudySection|https://www.studysection.com/communication-skills-certification-exam-foundation|
 |Microsoft Powerpoint Certification Exam (Advanced)|StudySection|https://www.studysection.com/microsoft-powerpoint-advanced|
+|Certified Information Security Manager|Charles Sturt University|https://www.itmasters.edu.au/free-short-course-certified-information-security-manager-cism-prep/|
+|Computer Network Fundamentals|CSU|https://www.itmasters.edu.au/free-short-course-computer-network-fundamentals/|
+|Enterprise Cyber Security Fundamentals|CSU|https://www.itmasters.edu.au/free-short-course-enterprise-cyber-security-fundamentals/|
+|Cybersecurity Management|CSU|https://www.itmasters.edu.au/free-short-course-cybersecurity-management/|
+|Information Security Incident Handling|CSU|https://www.itmasters.edu.au/free-short-course-information-security-incident-handling/|
